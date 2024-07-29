@@ -1,1 +1,1 @@
-Sistema de Agendamento de Barbearia!
+Sistema Simples de Agendamento de Barbearia!
